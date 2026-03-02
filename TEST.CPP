@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello World";
+    cout << "DSA environment ready!" << endl;
     return 0;
 }
